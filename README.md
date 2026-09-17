@@ -15,7 +15,7 @@ The project was completed collaboratively as part of CS591.
 
 ## Project Materials
 
-- [View Project Report](docs/CS591_Project3_Report_Redacted.pdf)
+- [View Project Report](docs/Project 3 Report_Redacted.pdf)
 - [View Portfolio Case Study](https://avenpacha.github.io/projects/machine-learning-optimization-neural-network.html)
 
 ## Files
