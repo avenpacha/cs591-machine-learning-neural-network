@@ -2,6 +2,8 @@
 
 **Course:** CS591 – Advanced Artificial Intelligence  
 **Project Type:** Team Project
+**Portfolio Case Study:**  
+https://avenpacha.github.io/projects/machine-learning-optimization-neural-network.html
 
 This project explores foundational machine learning optimization techniques
 and a practical neural network application.
